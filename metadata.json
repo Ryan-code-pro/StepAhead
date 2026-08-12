@@ -1,0 +1,6 @@
+{
+  "name": "Aether AI Stock & Market Platform",
+  "description": "An elegant dark-themed stock trading and market intelligence platform featuring AI market news with regional filters, predictive trend bars, and personalized AI investment position recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
